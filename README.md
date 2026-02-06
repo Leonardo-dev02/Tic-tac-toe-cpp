@@ -1,13 +1,13 @@
 # Tic-tac-toe-cpp
-##-_-¿Qué hace el juego?-_-
+## ¿Qué hace el juego?-_-
 
 El juego te permite elegir entre dos modalidades siendo: jugar solo contra la máquina o con alguna otra persona de manera local. Se jugará una partida que puede acabar con alguien victorioso o en un empate. 
 
-##-_-¿Cómo se juega?-_-
+## ¿Cómo se juega?-_-
 
 Tiene reglas muy básicas, son dos jugadores ya sean tú contra la máquina o tú contra otro jugador de manera local. Quien logre juntar una fila(Ya sea horizontal, vertical o diagonal) con su símbolo correspondiente 'X' o 'O' será el ganador, pero, si el tablero queda completamente lleno sin cumpliar las condiciones anteriores quedará en un empate así que tendrán que jugar de nuevo.
 
-##-_-Acerca del porqué hice este proyecto-_-
+## Acerca del porqué hice este proyecto-_-
 
 Este proyecto tuvo como finalidad poner a prueba aprendizajes obtenidos en mi trayectoria autodidacta, siendo mi primer gran desafio hasta el momento.
 
