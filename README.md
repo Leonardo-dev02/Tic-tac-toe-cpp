@@ -1,11 +1,14 @@
 # Tic-tac-toe-cpp
 -_-_-¿Qué hace el juego?-_-_-
+
 El juego te permite elegir entre dos modalidades siendo: jugar solo contra la máquina o con alguna otra persona de manera local. Se jugará una partida que puede acabr con alguien victorioso o en un empate. 
 
 -_-_-¿Cómo se juega?-_-_-
+
 Tiene reglas muy básicas, son dos jugadores ya sean tú contra la máquina o tú contra otro jugador de manera local. Quien logre juntar una fila(Ya sea horizontal, vertical o diagonal) con su símbolo corresppondiente 'X' o 'O' será el ganador, pero, si el tablero queda completamente lleno sin cumpliar las condiciones anteriores quedará en un empate así que tendrán que jugar de nuevo.
 
 -_-_-Acerca del porqué hice este proyecto-_-_-
+
 Este proyecto tuvo como finalidad poner a prueba aprendizajes obtenidos en mi trayectoria autodidacta, siendo mi primer gran desafio hasta el momento.
 
 Cabe destacar que este proyecto fué escrito desde una página web llamada C++ compiler. Esto se debe a que a la fecha que hago este repositorio que es el 05/02/26, no me he podido permitir una PC propia por lo que no tuve la oportunidad de por ejemplo realizarlo en un IDE o quizá en un editor de código.
